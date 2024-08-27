@@ -1,4 +1,4 @@
-Simple report created in Power BI for 630 data professionals. The report includes visualizations on:
+Simple report created in Power BI from 630 data professionals. The report includes visualizations on:
 - Countries
 - Age
 - Average salaries
